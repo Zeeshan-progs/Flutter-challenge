@@ -2,7 +2,7 @@
 
 > Episode: 1 Animated align
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-widget-challenge/tree/main/lib/ui/Alignment_align)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Alignment_align)
 
 - [ ] [watch on youtube](https://www.youtube.com/watch?v=xtVApAuarD8)
 
@@ -10,7 +10,7 @@
 
 > Episode: 2 Draggable widget
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-widget-challenge/tree/main/lib/ui/dragabble)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/dragabble)
 
 - [ ] [watch on youtube](https://www.youtube.com/watch?v=1L4QlI_nwz0)
 
