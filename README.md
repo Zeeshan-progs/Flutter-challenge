@@ -16,6 +16,13 @@
 
 ![Flutter](https://user-images.githubusercontent.com/67018643/196007613-bd08c0c9-b385-435a-8585-007b5ef1ddad.png)
 
+> Episode: 3 Flutter native splash
+
+- [ ] [watch on youtube]()
+
+![splash_banner](https://user-images.githubusercontent.com/67018643/198074703-1f294f87-ad23-498e-aab8-5545df59132f.png)
+
+
 ##
 
 ## Built With
@@ -27,6 +34,8 @@
 
 - [ ] Animated Alignment
 - [ ] Draggable Widget
+- [ ] Native splash using command line
+
 
 ## Author
 
