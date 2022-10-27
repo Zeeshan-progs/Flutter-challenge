@@ -1,4 +1,4 @@
-package com.example.widget_challenge
+package com.flutterChallenge.app
 
 import io.flutter.embedding.android.FlutterActivity
 
