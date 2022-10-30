@@ -30,15 +30,18 @@
 
 ![tts_banner](https://user-images.githubusercontent.com/67018643/198876954-21baba64-d3fa-446e-b695-ebee80d692b3.png)
 
-## Future Updates
 
 ## Built With
 
-- [ ] Material Widget
+- Material Widget
+
+
+## Future Updates
+
 - [ ] Animated Alignment
 - [ ] Draggable Widget
 - [ ] Native splash using command line
-- [ ] Text to speech
+- [ ] Text to speech 
 
 
 
