@@ -22,19 +22,23 @@
 
 ![2](https://user-images.githubusercontent.com/67018643/198876576-7ab02675-3bbb-4ddc-9f3f-244519b90cc0.png)
 
+> Episode: 4 Text to speech
 
-##
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/text_to_speech)
+
+- [ ] [watch on youtube](https://www.youtube.com/)
+
+## Future Updates![tts_banner](https://user-images.githubusercontent.com/67018643/198876954-21baba64-d3fa-446e-b695-ebee80d692b3.png)
+
 
 ## Built With
 
-- Material Widget
-
-
-## Future Updates
-
+- [ ] Material Widget
 - [ ] Animated Alignment
 - [ ] Draggable Widget
 - [ ] Native splash using command line
+- [ ] Text to speech
+
 
 
 ## Author
