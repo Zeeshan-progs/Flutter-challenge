@@ -32,6 +32,9 @@
 
 ## Future Updates
 - Material Widget
+- [Flutter_native_splash package](https://pub.dev/packages/flutter_native_splash)
+- [Flutter_tts package](https://pub.dev/packages/flutter_tts)
+- 
 
 ## Built With
 
