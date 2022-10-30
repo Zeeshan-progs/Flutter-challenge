@@ -31,10 +31,10 @@
 ![tts_banner](https://user-images.githubusercontent.com/67018643/198876954-21baba64-d3fa-446e-b695-ebee80d692b3.png)
 
 ## Future Updates
+- Material Widget
 
 ## Built With
 
-- [ ] Material Widget
 - [ ] Animated Alignment
 - [ ] Draggable Widget
 - [ ] Native splash using command line
