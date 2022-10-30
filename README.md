@@ -26,22 +26,19 @@
 
 - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/text_to_speech)
 
-- [ ] [watch on youtube](https://www.youtube.com/)
+- [ ] [watch on youtube](https://youtu.be/x0md828OzlA)
 
 ![tts_banner](https://user-images.githubusercontent.com/67018643/198876954-21baba64-d3fa-446e-b695-ebee80d692b3.png)
 
+## Future Updates
 
 ## Built With
 
-- Material Widget
-
-
-## Future Updates
-
+- [ ] Material Widget
 - [ ] Animated Alignment
 - [ ] Draggable Widget
 - [ ] Native splash using command line
-- [ ] Text to speech 
+- [ ] Text to speech
 
 
 
