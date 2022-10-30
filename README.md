@@ -18,9 +18,9 @@
 
 > Episode: 3 Flutter native splash
 
-- [ ] [watch on youtube]()
+- [ ] [watch on youtube](https://www.youtube.com/watch?v=YGlgCbtXiYQ)
 
-![splash_banner](https://user-images.githubusercontent.com/67018643/198074703-1f294f87-ad23-498e-aab8-5545df59132f.png)
+![2](https://user-images.githubusercontent.com/67018643/198876576-7ab02675-3bbb-4ddc-9f3f-244519b90cc0.png)
 
 
 ##
