@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/widget_challenge.iml" filepath="$PROJECT_DIR$/widget_challenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/widget_challenge_android.iml" filepath="$PROJECT_DIR$/android/widget_challenge_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_challenge.iml" filepath="$PROJECT_DIR$/flutter_challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutter_challenge_android.iml" filepath="$PROJECT_DIR$/android/flutter_challenge_android.iml" />
     </modules>
   </component>
 </project>

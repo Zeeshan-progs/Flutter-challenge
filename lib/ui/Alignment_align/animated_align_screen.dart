@@ -1,9 +1,9 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:widget_challenge/constants/text_theme.dart';
-import 'package:widget_challenge/utils/device_utils.dart';
-import 'package:widget_challenge/widget/light_app_bar.dart';
+import 'package:flutter_challenge/constants/text_theme.dart';
+import 'package:flutter_challenge/utils/device_utils.dart';
+import 'package:flutter_challenge/widget/light_app_bar.dart';
 
 enum Align {
   topLeft,

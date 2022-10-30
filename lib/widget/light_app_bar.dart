@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:widget_challenge/constants/colors.dart';
-import 'package:widget_challenge/constants/text_theme.dart';
+import 'package:flutter_challenge/constants/colors.dart';
+import 'package:flutter_challenge/constants/text_theme.dart';
 
 class LightAppBar extends StatelessWidget implements PreferredSizeWidget {
   LightAppBar({

@@ -1,8 +1,10 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:widget_challenge/constants/assets.dart';
-import 'package:widget_challenge/constants/colors.dart';
-import 'package:widget_challenge/widget/light_app_bar.dart';
+import 'package:flutter_challenge/constants/assets.dart';
+import 'package:flutter_challenge/constants/colors.dart';
+import 'package:flutter_challenge/widget/light_app_bar.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
 class TextToSpeech extends StatefulWidget {
@@ -21,7 +23,11 @@ class _TextToSpeechState extends State<TextToSpeech> {
   @override
   void initState() {
     flutterTts.getDefaultEngine;
-
+    Future.delayed(Duration.zero, () async {
+      if (Platform.isIOS) {
+        await flutterTts.setSharedInstance(true);
+      }
+    });
     super.initState();
   }
 
