@@ -27,4 +27,10 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2022, 10, 16),
     route: Routes.ep2,
   ),
+   DailyTask(
+    description: 'Text to speech',
+    title: 'Ep: 3',
+    cretedAt: DateTime(2022, 10, 30),
+    route: Routes.ep3,
+  ),
 ];
