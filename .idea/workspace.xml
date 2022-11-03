@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="053c2878-c0d6-45e3-bdf3-3cccab695e69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/widget_challenge/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/widget_challenge_android.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/constants/assets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants/assets.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/constants/colors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants/colors.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/constants/text_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants/text_theme.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui/Alignment_align/animated_align_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/Alignment_align/animated_align_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui/dragabble/dragabble.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/dragabble/dragabble.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/home_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui/text_to_speech/text_to_speech.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/text_to_speech/text_to_speech.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils/routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/routes.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils/task_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/task_list.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widget/light_app_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widget/light_app_bar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widget/list_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widget/list_card.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,5 +72,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

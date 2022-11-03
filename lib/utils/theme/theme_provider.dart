@@ -6,7 +6,7 @@ import 'package:flutter_challenge/utils/theme/theme.dart' as t;
 
 class ThemeProvider with ChangeNotifier {
   ThemeData theme = t.Theme().darkTheme;
-  bool isDark = false;
+  bool isDark = getIt<SharedPreferenceHelper>().isdark;
 
   void toggle(BuildContext context) {
     isDark = !isDark;
@@ -15,10 +15,10 @@ class ThemeProvider with ChangeNotifier {
     notifyListeners();
   }
 
-  Future<ThemeData> getTheme() async =>
-      await getIt<SharedPreferenceHelper>().isdark
-          ? t.Theme().darkTheme
-          : t.Theme().lightTheme;
+  // bool get getIsDark => getIt<SharedPreferenceHelper>().isdark;
+  Future<ThemeData> getTheme() async => getIt<SharedPreferenceHelper>().isdark
+      ? t.Theme().darkTheme
+      : t.Theme().lightTheme;
 
   ThemeData get themeData => theme;
 
