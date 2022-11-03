@@ -1,12 +1,26 @@
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'dart:async';
+import 'dart:developer';
 
-import 'package:widget_challenge/constants/colors.dart';
-import 'package:widget_challenge/ui/home_screen.dart';
-import 'package:widget_challenge/utils/routes.dart';
+import 'package:flutter/material.dart' hide Theme;
+import 'package:flutter_challenge/ui/home_screen.dart';
+import 'package:flutter_challenge/utils/injector/project_injector.dart';
+import 'package:flutter_challenge/utils/routes.dart';
+import 'package:flutter_challenge/utils/theme/theme_provider.dart';
+import 'package:provider/provider.dart';
 
-void main() {
-  runApp(const MyApp());
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await runZonedGuarded(
+    () async {
+      await setupProjectInjector().then((value) {
+        runApp(ChangeNotifierProvider<ThemeProvider>(
+          create: (context) => ThemeProvider(),
+          builder: (context, child) => const MyApp(),
+        ));
+      });
+    },
+    (error, stack) => log('error $error'),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -14,32 +28,17 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setSystemUIOverlayStyle(
-      SystemUiOverlayStyle(
-        statusBarColor: AppColors.primaryColor,
-        statusBarIconBrightness: Brightness.light,
-        statusBarBrightness: Brightness.dark,
-        systemStatusBarContrastEnforced: true,
-        systemNavigationBarContrastEnforced: true,
-        systemNavigationBarIconBrightness: Brightness.light,
-      ),
-    );
-    return MaterialApp(
-      theme: ThemeData(
-        colorScheme: ColorScheme.light(
-          background: AppColors.white,
-          primary: AppColors.primaryColor,
-          brightness: Brightness.light,
-          onPrimary: AppColors.primaryColor,
-        ),
-        scaffoldBackgroundColor: AppColors.white,
-        primaryColor: AppColors.primaryColor,
-        backgroundColor: AppColors.white,
-      ),
-      debugShowCheckedModeBanner: false,
-      themeMode: ThemeMode.dark,
-      routes: Routes.route,
-      home: const HomeScreen(),
+    return Consumer<ThemeProvider>(
+      builder: (context, provider, child) {
+        provider.setTheme();
+
+        return MaterialApp(
+          theme: provider.themeData,
+          debugShowCheckedModeBanner: false,
+          routes: Routes.route,
+          home: const HomeScreen(),
+        );
+      },
     );
   }
 }

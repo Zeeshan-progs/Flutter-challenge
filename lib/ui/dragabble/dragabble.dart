@@ -1,10 +1,10 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:widget_challenge/constants/assets.dart';
-import 'package:widget_challenge/constants/colors.dart';
-import 'package:widget_challenge/constants/text_theme.dart';
-import 'package:widget_challenge/widget/light_app_bar.dart';
+import 'package:flutter_challenge/constants/assets.dart';
+import 'package:flutter_challenge/constants/colors.dart';
+import 'package:flutter_challenge/constants/text_theme.dart';
+import 'package:flutter_challenge/widget/light_app_bar.dart';
 
 class DraggableScreen extends StatefulWidget {
   const DraggableScreen({Key? key}) : super(key: key);

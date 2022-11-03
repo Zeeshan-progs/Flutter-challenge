@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_challenge/constants/colors.dart';
+import 'package:flutter_challenge/constants/colors.dart';
 
 ThemeData themeData = ThemeData(
   textTheme:  TextTheme(
