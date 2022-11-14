@@ -52,6 +52,7 @@
 - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge)
 
 - [ ] [watch on youtube](https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ/videos)
+- [ ] [medium](https://medium.com/@md.zeeshaniqbal7277/change-theme-dynamically-flutter-provider-package-shared-preferences-35847c237025)
 
 ![change_theme_br](https://user-images.githubusercontent.com/67018643/199065296-5dba941f-7dbb-46ef-a48b-b4b0ad35b4ba.png)
 
