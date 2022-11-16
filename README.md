@@ -61,7 +61,7 @@
  
 > Episode: 6 Vibration (soon)
 
-- [ ] [watch on youtube](https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ)
+- [ ] [watch on youtube](https://youtu.be/gWMqED6R5pE)
 
 - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge)
 
