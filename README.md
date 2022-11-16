@@ -49,7 +49,7 @@
 > Episode: 5 Change theme using provider
 
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/blob/main/lib/ui/change_theme/change_theme.dart)
 
 - [ ] [watch on youtube](https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ/videos)
 - [ ] [medium](https://medium.com/@md.zeeshaniqbal7277/change-theme-dynamically-flutter-provider-package-shared-preferences-35847c237025)
@@ -58,8 +58,12 @@
 
 
  <!-- ------------------------------------------------------ -->
-> Episode: 6 Vibration 
+ 
+> Episode: 6 Vibration (soon)
 
+- [ ] [watch on youtube](https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ)
+
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge)
 
 ![Flutter](https://user-images.githubusercontent.com/67018643/202201346-07123c03-13f5-4d3e-9eac-b4409f67413a.png)
 
