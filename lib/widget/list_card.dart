@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_challenge/constants/colors.dart';
 import 'package:flutter_challenge/constants/text_theme.dart';
 import 'package:flutter_challenge/utils/device_utils.dart';
 import 'package:flutter_challenge/utils/task_list.dart';

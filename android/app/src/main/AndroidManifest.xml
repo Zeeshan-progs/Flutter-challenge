@@ -1,5 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.project.flutter_challenge.flutter_challenge">
+
+        <!-- Add permission to your application -->
+    
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
    <application
         android:label="flutter_challenge"
         android:name="${applicationName}"

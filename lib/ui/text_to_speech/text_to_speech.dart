@@ -1,7 +1,6 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter_challenge/constants/assets.dart';
 import 'package:flutter_challenge/constants/colors.dart';
 import 'package:flutter_challenge/widget/light_app_bar.dart';
@@ -74,9 +73,9 @@ class _TextToSpeechState extends State<TextToSpeech> {
                             flutterTts.setCompletionHandler(doToggle);
                           }
                         },
-                        child: Center(
-                          child: FaIcon(
-                            IconDataSolid(int.parse('0xf04b')),
+                        child: const Center(
+                          child: Icon(
+                           Icons.play_arrow_rounded,
                             color: AppColors.black,
                           ),
                         ),

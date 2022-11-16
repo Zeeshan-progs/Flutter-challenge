@@ -1,11 +1,9 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_challenge/constants/assets.dart';
-import 'package:flutter_challenge/utils/injector/project_injector.dart';
-import 'package:flutter_challenge/utils/theme/shared_preference_helper.dart';
 import 'package:flutter_challenge/utils/theme/theme_provider.dart';
 import 'package:flutter_challenge/widget/light_app_bar.dart';
 import 'package:provider/provider.dart';
+import 'package:vibration/vibration.dart';
 
 class ChangeTheme extends StatefulWidget {
   const ChangeTheme({super.key});
@@ -18,6 +16,16 @@ class _ChangeThemeState extends State<ChangeTheme> {
   @override
   void initState() {
     super.initState();
+  }
+
+  Future<void> vibrateOnChange() async {
+    await Vibration.vibrate(
+      // lets add some duration
+      duration: 1000,
+      pattern: [10, 60, 90, 50, 20, 0],
+
+      amplitude: 20,
+    );
   }
 
   @override
@@ -44,6 +52,7 @@ class _ChangeThemeState extends State<ChangeTheme> {
                           activeThumbImage: const AssetImage(Assets.light),
                           onChanged: (value) async {
                             provider.toggle(context);
+                            await vibrateOnChange();
                           }),
                     ),
                   ),

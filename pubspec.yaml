@@ -21,6 +21,7 @@ dependencies:
   provider: ^6.0.4
   shared_preferences: ^2.0.15
   get_it: ^7.2.0
+  vibration: ^1.7.6
 
 dev_dependencies:
   flutter_test:
