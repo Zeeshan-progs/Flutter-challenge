@@ -57,6 +57,14 @@
 ![change_theme_br](https://user-images.githubusercontent.com/67018643/199065296-5dba941f-7dbb-46ef-a48b-b4b0ad35b4ba.png)
 
 
+ <!-- ------------------------------------------------------ -->
+> Episode: 6 Vibration 
+
+
+![Flutter](https://user-images.githubusercontent.com/67018643/202201346-07123c03-13f5-4d3e-9eac-b4409f67413a.png)
+
+
+
 
 ## Future Updates
 - Material Widget
