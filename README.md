@@ -59,15 +59,23 @@
 
  <!-- ------------------------------------------------------ -->
  
-> Episode: 6 Vibration (soon)
+> Episode: 6 Vibration
 
-- [ ] [watch on youtube](https://youtu.be/gWMqED6R5pE)
+- [ ] [watch on youtube](https://www.youtube.com/watch?v=gWMqED6R5pE)
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/change_theme)
 
 ![Flutter](https://user-images.githubusercontent.com/67018643/202201346-07123c03-13f5-4d3e-9eac-b4409f67413a.png)
 
+ <!-- ------------------------------------------------------ -->
+ 
+> Episode:  How to add tags in image like instagram (soon)
 
+- [ ] [watch on youtube](https://www.youtube.com/@codewithzeeshan2559/videos)
+
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge)
+
+![Flutter](https://user-images.githubusercontent.com/67018643/204105205-020e2935-daab-4e9c-a988-5f4a7848f814.png)
 
 
 ## Future Updates
@@ -87,6 +95,8 @@
 - [ ] Text to speech
 - [ ] Theme change dynamically
 - [ ] Vibration
+- [ ] Tags in image like instagram
+
 
 
 
