@@ -71,7 +71,7 @@
  
 > Episode:  How to use tags in image like instagram 
 
-- [ ] [watch on youtube](https://www.youtube.com/@codewithzeeshan2559/videos)
+- [ ] [watch on youtube](https://youtu.be/Jr2lJ1xx15E)
 
 - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/tag_in_image)
 
