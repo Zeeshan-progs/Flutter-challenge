@@ -19,24 +19,30 @@ List<DailyTask> tasks = [
     description: 'Animated align',
     title: 'Ep: 1',
     cretedAt: DateTime(2022, 10, 8),
-    route: Routes.ep1,
+    route: Routes.animatedAlign,
   ),
   DailyTask(
     description: 'Dragabble',
     title: 'Ep: 2',
     cretedAt: DateTime(2022, 10, 16),
-    route: Routes.ep2,
+    route: Routes.draggableScreen,
   ),
-   DailyTask(
+  DailyTask(
     description: 'Text to speech',
     title: 'Ep: 3',
     cretedAt: DateTime(2022, 10, 30),
-    route: Routes.ep3,
+    route: Routes.textToSpeech,
   ),
-   DailyTask(
+  DailyTask(
     description: 'Change theme',
     title: 'Ep: 4',
     cretedAt: DateTime(2022, 11, 7),
     route: Routes.changeTheme,
+  ),
+  DailyTask(
+    description: 'Tag in image',
+    title: 'Ep: 5',
+    cretedAt: DateTime(2022, 11, 26),
+    route: Routes.tagInImage,
   ),
 ];
