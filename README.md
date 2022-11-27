@@ -95,7 +95,8 @@
 - [ ] Text to speech
 - [ ] Theme change dynamically
 - [ ] Vibration
-- [ ] Tags in image like instagram
+- [ ] Transform Widget 
+
 
 
 
