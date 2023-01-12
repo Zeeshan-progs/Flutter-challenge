@@ -10,18 +10,18 @@
 - [ ] [watch on youtube](https://www.youtube.com/watch?v=xtVApAuarD8)
 
 ![maxresdefault](https://user-images.githubusercontent.com/67018643/194779819-ef52a3a4-f825-4802-9b73-5f266283f37d.jpg)
-
+# 
 
  <!-- ------------------------------------------------------ -->
  
 > Episode: 2 Draggable widget
-
 - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/dragabble)
 
 - [ ] [watch on youtube](https://www.youtube.com/watch?v=1L4QlI_nwz0)
 
 ![Flutter](https://user-images.githubusercontent.com/67018643/196007613-bd08c0c9-b385-435a-8585-007b5ef1ddad.png)
 
+# 
 
  <!-- ------------------------------------------------------ -->
 
@@ -31,7 +31,7 @@
 
 ![2](https://user-images.githubusercontent.com/67018643/198876576-7ab02675-3bbb-4ddc-9f3f-244519b90cc0.png)
 
-
+# 
  <!-- ------------------------------------------------------ -->
 
 > Episode: 4 Text to speech
@@ -42,8 +42,7 @@
 
 ![tts_banner](https://user-images.githubusercontent.com/67018643/198876954-21baba64-d3fa-446e-b695-ebee80d692b3.png)
 
-
-
+# 
  <!-- ------------------------------------------------------ -->
  
 > Episode: 5 Change theme using provider
@@ -56,7 +55,7 @@
 
 ![change_theme_br](https://user-images.githubusercontent.com/67018643/199065296-5dba941f-7dbb-46ef-a48b-b4b0ad35b4ba.png)
 
-
+# 
  <!-- ------------------------------------------------------ -->
  
 > Episode: 6 Vibration
@@ -67,6 +66,7 @@
 
 ![Flutter](https://user-images.githubusercontent.com/67018643/202201346-07123c03-13f5-4d3e-9eac-b4409f67413a.png)
 
+# 
  <!-- ------------------------------------------------------ -->
  
 > Episode:  How to use tags in image like instagram 
@@ -77,10 +77,26 @@
 
 ![Flutter (1)](https://user-images.githubusercontent.com/67018643/204156791-26cef5fe-4259-433e-90f2-151964864e0a.png)
 
-
+# 
+ <!-- ------------------------------------------------------ -->
+ 
+> Episode: Firebase CLI setup 
 - [ ] [Watch on youtube](https://youtu.be/IFIrV1RTQFY)
 ![Flutter (1)](https://user-images.githubusercontent.com/67018643/206907880-b7939485-54b9-4cd7-8478-53192a12085f.png)
 
+# 
+ <!-- ------------------------------------------------------ -->
+ 
+> Episode:  How to zoom and blur image in sliver app bar using custom scroll view 
+
+- [ ] [watch on youtube](https://youtu.be/Jr2lJ1xx15E)
+
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/tag_in_image)
+
+![Flutter](https://user-images.githubusercontent.com/67018643/212134924-465c7a65-7c34-4fc1-a791-b437e694c33e.png)
+
+# 
+ <!-- ------------------------------------------------------ -->
 
 ## Packages
 
