@@ -45,4 +45,10 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2022, 11, 26),
     route: Routes.tagInImage,
   ),
+   DailyTask(
+    description: 'Scroll to zoom image',
+    title: 'Ep: 5',
+    cretedAt: DateTime(2023, 01, 12),
+    route: Routes.scrollToZoomImage,
+  ),
 ];

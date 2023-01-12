@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_challenge/constants/assets.dart';
 import 'package:flutter_challenge/constants/colors.dart';
 import 'package:flutter_challenge/constants/text_theme.dart';
-import 'package:flutter_challenge/ui/tag_in_image/image_tag_model.dart';
-import 'package:flutter_challenge/ui/tag_in_image/image_tag_provider.dart';
+import 'package:flutter_challenge/ui/Ep_5_tag_in_image/image_tag_model.dart';
+import 'package:flutter_challenge/ui/Ep_5_tag_in_image/image_tag_provider.dart';
 import 'package:flutter_challenge/utils/device_utils.dart';
 import 'package:flutter_challenge/widget/light_app_bar.dart';
 import 'package:provider/provider.dart';
@@ -43,8 +44,7 @@ class _TagInImageState extends State<TagInImage> {
                                 );
                               },
                               child: Image.network(
-                                "https://images.unsplash.com/photo-1669434113533-e39391413a18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80",
-                                fit: BoxFit.cover,
+Assets.networkImage,                                fit: BoxFit.cover,
                               ),
                             ),
                           ),

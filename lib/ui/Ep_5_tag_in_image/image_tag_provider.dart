@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_challenge/ui/tag_in_image/image_tag_model.dart';
+import 'package:flutter_challenge/ui/Ep_5_tag_in_image/image_tag_model.dart';
 
 class ImageTagProvider with ChangeNotifier {
   List<ImageTagModel> imagetags = [];
