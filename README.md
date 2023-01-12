@@ -5,7 +5,7 @@
 
 > Episode: 1 Animated align
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Alignment_align)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_1_Alignment_align)
 
 - [ ] [watch on youtube](https://www.youtube.com/watch?v=xtVApAuarD8)
 
@@ -15,7 +15,7 @@
  <!-- ------------------------------------------------------ -->
  
 > Episode: 2 Draggable widget
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/dragabble)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_2_dragabble)
 
 - [ ] [watch on youtube](https://www.youtube.com/watch?v=1L4QlI_nwz0)
 
@@ -36,7 +36,7 @@
 
 > Episode: 4 Text to speech
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/text_to_speech)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_3_text_to_speech)
 
 - [ ] [watch on youtube](https://youtu.be/x0md828OzlA)
 
@@ -48,7 +48,7 @@
 > Episode: 5 Change theme using provider
 
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/blob/main/lib/ui/change_theme/change_theme.dart)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_4_change_theme)
 
 - [ ] [watch on youtube](https://www.youtube.com/watch?v=h2JWvU1AMNA)
 - [ ] [medium](https://medium.com/@md.zeeshaniqbal7277/change-theme-dynamically-flutter-provider-package-shared-preferences-35847c237025)
