@@ -71,9 +71,9 @@
  
 > Episode: 7  How to use tags in image like instagram 
 
-- [ ] [watch on youtube](https://youtu.be/Jr2lJ1xx15E)
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_5_tag_in_image)
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/tag_in_image)
+- [ ] [watch on youtube](https://youtu.be/Jr2lJ1xx15E)
 
 ![Flutter (1)](https://user-images.githubusercontent.com/67018643/204156791-26cef5fe-4259-433e-90f2-151964864e0a.png)
 
@@ -91,9 +91,9 @@
  
 > Episode: 9 How to zoom and blur image in sliver app bar using custom scroll view 
 
-<!-- - [ ] [watch on youtube](https://www.youtube.com/@code_with_zeeshan/) -->
+- [ ] [watch on youtube](https://youtu.be/MLMJ3MnjXMk)
 
-<!-- - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge) -->
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_9_zoom_image_in_appbar)
 
 ![Flutter](https://user-images.githubusercontent.com/67018643/212134924-465c7a65-7c34-4fc1-a791-b437e694c33e.png)
 
