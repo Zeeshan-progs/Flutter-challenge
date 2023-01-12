@@ -1,6 +1,6 @@
 # Flutter challenge
 
-
+# [view channel](https://www.youtube.com/@code_with_zeeshan/)
  <!-- ------------------------------------------------------ -->
 
 > Episode: 1 Animated align
@@ -69,7 +69,7 @@
 # 
  <!-- ------------------------------------------------------ -->
  
-> Episode:  How to use tags in image like instagram 
+> Episode: 7  How to use tags in image like instagram 
 
 - [ ] [watch on youtube](https://youtu.be/Jr2lJ1xx15E)
 
@@ -80,18 +80,20 @@
 # 
  <!-- ------------------------------------------------------ -->
  
-> Episode: Firebase CLI setup 
+> Episode: 8 Firebase CLI setup 
+
 - [ ] [Watch on youtube](https://youtu.be/IFIrV1RTQFY)
+
 ![Flutter (1)](https://user-images.githubusercontent.com/67018643/206907880-b7939485-54b9-4cd7-8478-53192a12085f.png)
 
 # 
  <!-- ------------------------------------------------------ -->
  
-> Episode:  How to zoom and blur image in sliver app bar using custom scroll view 
+> Episode: 9 How to zoom and blur image in sliver app bar using custom scroll view 
 
-- [ ] [watch on youtube](https://youtu.be/Jr2lJ1xx15E)
+<!-- - [ ] [watch on youtube](https://www.youtube.com/@code_with_zeeshan/) -->
 
-- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/tag_in_image)
+<!-- - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge) -->
 
 ![Flutter](https://user-images.githubusercontent.com/67018643/212134924-465c7a65-7c34-4fc1-a791-b437e694c33e.png)
 
