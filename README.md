@@ -100,6 +100,21 @@
 # 
  <!-- ------------------------------------------------------ -->
 
+
+ 
+> Episode: 10 Chat Gpt implementation
+
+- [ ] [watch on youtube](https://www.youtube.com/watch?v=TReReLscVoA)
+
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_10_chat_GPT)
+
+![Flutter](https://user-images.githubusercontent.com/67018643/219700376-05f10d25-118b-4467-8aae-3d66eb8c8cbf.png)
+
+# 
+ <!-- ------------------------------------------------------ -->
+
+
+
 ## Packages
 
 - [Flutter_native_splash ](https://pub.dev/packages/flutter_native_splash)
@@ -107,6 +122,8 @@
 - [get it ](https://pub.dev/packages/get_it)
 - [provider](https://pub.dev/packages/provider)
 - [Vibration](https://pub.dev/packages/vibration)
+- [Chat GPT](https://pub.dev/packages/chat_gpt_sdk)
+
 
 
 ## Built With
@@ -118,6 +135,8 @@
 - [ ] Theme change dynamically
 - [ ] Vibration
 - [ ] Transform Widget 
+- [ ] Chat GPT SDK
+
 
 
 
