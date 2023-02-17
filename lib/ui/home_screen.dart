@@ -17,23 +17,25 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: LightAppBar(title: 'Home screen'),
       body: SafeArea(
-          child: Column(
-        children: [
-          DeviceUtils.blankHeight(26),
-          ListView.separated(
-            shrinkWrap: true,
-            physics: const NeverScrollableScrollPhysics(),
-            itemBuilder: ((context, index) {
-              var data = tasks[index];
-              return ListCard(
-                data: data,
-                index: index,
-              );
-            }),
-            separatorBuilder: (ctx, index) => DeviceUtils.blankHeight(16),
-            itemCount: tasks.length,
-          ),
-        ],
+          child: SingleChildScrollView(
+        child: Column(
+          children: [
+            DeviceUtils.blankHeight(26),
+            ListView.separated(
+              shrinkWrap: true,
+              physics: const NeverScrollableScrollPhysics(),
+              itemBuilder: ((context, index) {
+                var data = tasks[index];
+                return ListCard(
+                  data: data,
+                  index: index,
+                );
+              }),
+              separatorBuilder: (ctx, index) => DeviceUtils.blankHeight(16),
+              itemCount: tasks.length,
+            ),
+          ],
+        ),
       )),
     );
   }

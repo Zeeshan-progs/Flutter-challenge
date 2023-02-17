@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_challenge/ui/Ep_10_chat_GPT/chat_gpt_sdk.dart';
+
 import 'package:flutter_challenge/ui/Ep_1_Alignment_align/animated_align_screen.dart';
 import 'package:flutter_challenge/ui/Ep_4_change_theme/change_theme.dart';
 import 'package:flutter_challenge/ui/Ep_2_dragabble/dragabble.dart';
@@ -13,7 +15,8 @@ class Routes {
     textToSpeech: (context) => const TextToSpeech(),
     changeTheme: (context) => const ChangeTheme(),
     tagInImage: (context) => const TagInImage(),
-    scrollToZoomImage:(context) => const ScrollToZoomImage(), 
+    scrollToZoomImage: (context) => const ScrollToZoomImage(),
+    chatGPT: (context) => const ChatGPTScreen()
   };
 
   static String animatedAlign = '/animated_align_screen';
@@ -22,5 +25,7 @@ class Routes {
   static String changeTheme = '/change_theme';
   static String tagInImage = '/tag_in_image';
 
-  static String scrollToZoomImage = '/Scroll to zoom image';
+  static String scrollToZoomImage = '/Scroll_to_zoom_image';
+
+  static String chatGPT = '/chat_GPT';
 }

@@ -11,7 +11,8 @@ class AppColors {
 
   static Color dark = const Color(0xff000000).withOpacity(0.87);
   static Map<int, Color> day = {
-    1: const Color(0xff252dc4),
+    1: const Color.fromARGB(255, 196, 167, 37),
+    2: const Color.fromARGB(255, 36, 234, 231),
   };
 
   static Map<int, Color> border = {

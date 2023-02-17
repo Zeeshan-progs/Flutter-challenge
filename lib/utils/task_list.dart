@@ -45,10 +45,16 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2022, 11, 26),
     route: Routes.tagInImage,
   ),
-   DailyTask(
+  DailyTask(
     description: 'Scroll to zoom image',
-    title: 'Ep: 5',
+    title: 'Ep: 9',
     cretedAt: DateTime(2023, 01, 12),
     route: Routes.scrollToZoomImage,
+  ),
+  DailyTask(
+    description: 'Chat GPT SDK',
+    title: 'Ep: 10',
+    cretedAt: DateTime(2023, 01, 26),
+    route: Routes.chatGPT,
   ),
 ];
