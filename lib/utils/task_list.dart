@@ -57,4 +57,11 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2023, 01, 26),
     route: Routes.chatGPT,
   ),
+
+  DailyTask(
+    description: 'Wheel scroll',
+    title: 'Ep: 11',
+    cretedAt: DateTime(2023, 02, 17),
+    route: Routes.wheelScroll,
+  ),
 ];
