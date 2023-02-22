@@ -114,6 +114,19 @@
  <!-- ------------------------------------------------------ -->
 
 
+> Episode: 11 How to do wheel scrolling in flutter 
+
+- [ ] [watch on youtube](https://www.youtube.com/watch?v=GI8AJ7KNsiY)
+
+- [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_11_wheel_list_scroll_animation)
+
+![maxresdefault](https://user-images.githubusercontent.com/67018643/220640190-a4790eee-3d61-498d-a8a3-2403ffd96f8d.jpg)
+
+
+
+# 
+ <!-- ------------------------------------------------------ -->
+
 
 ## Packages
 
