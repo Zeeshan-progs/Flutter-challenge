@@ -1,6 +1,12 @@
 # Flutter challenge
 
-# [view channel](https://www.youtube.com/@code_with_zeeshan/)
+  <a href="https://www.youtube.com/channel/UCiBY18oLz7AyzZIzL3QrxwQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  >
+  #
+
  <!-- ------------------------------------------------------ -->
 
 > Episode: 1 Animated align
@@ -121,7 +127,6 @@
 - [ ] [Source code](https://github.com/Zeeshan-progs/Flutter-challenge/tree/main/lib/ui/Ep_11_wheel_list_scroll_animation)
 
 ![maxresdefault](https://user-images.githubusercontent.com/67018643/220640190-a4790eee-3d61-498d-a8a3-2403ffd96f8d.jpg)
-
 
 
 # 
