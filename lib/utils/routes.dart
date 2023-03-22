@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_challenge/ui/EP_12_Sound_wave_animation/sound_wave_animation.dart';
 import 'package:flutter_challenge/ui/Ep_10_chat_GPT/chat_gpt_sdk.dart';
 import 'package:flutter_challenge/ui/Ep_11_wheel_list_scroll_animation/wheel%20_scroll.dart';
 
@@ -19,6 +20,7 @@ class Routes {
     scrollToZoomImage: (context) => const ScrollToZoomImage(),
     chatGPT: (context) => const ChatGPTScreen(),
     wheelScroll: (context) => const WheelScroll(),
+    soundWaveAnimation: (context) => const SoundWaveAnimation(),
   };
 
   static String animatedAlign = '/animated_align_screen';
@@ -32,4 +34,6 @@ class Routes {
   static String chatGPT = '/chat_GPT';
 
   static String wheelScroll = '/wheel_scroll';
+
+  static String soundWaveAnimation = '/soundWaveAnimation';
 }

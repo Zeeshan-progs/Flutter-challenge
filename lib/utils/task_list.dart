@@ -57,11 +57,16 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2023, 01, 26),
     route: Routes.chatGPT,
   ),
-
   DailyTask(
     description: 'Wheel scroll',
     title: 'Ep: 11',
     cretedAt: DateTime(2023, 02, 17),
     route: Routes.wheelScroll,
+  ),
+   DailyTask(
+    description: 'Sound wave animation',
+    title: 'Ep: 12',
+    cretedAt: DateTime(2023, 03, 20),
+    route: Routes.soundWaveAnimation,
   ),
 ];
