@@ -34,6 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
               separatorBuilder: (ctx, index) => DeviceUtils.blankHeight(16),
               itemCount: tasks.length,
             ),
+            DeviceUtils.blankHeight(26),
           ],
         ),
       )),

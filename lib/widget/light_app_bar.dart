@@ -7,22 +7,24 @@ class LightAppBar extends StatelessWidget implements PreferredSizeWidget {
   LightAppBar({
     Key? key,
     required this.title,
+    this.appColor,
   }) : super(key: key);
   var title;
+  Color? appColor;
   @override
   Widget build(BuildContext context) {
     return AppBar(
-      iconTheme: const IconThemeData(
-        color: AppColors.white,
+      elevation: 0,
+      backgroundColor: appColor,
+      iconTheme: IconThemeData(
+        color: appColor == null ? AppColors.white : AppColors.black,
         size: 22,
-
       ),
-      
       title: title is String
           ? Text(
               title,
               style: themeData.textTheme.headline6?.copyWith(
-                color: AppColors.white,
+                color: appColor == null ? AppColors.white : AppColors.black,
               ),
             )
           : title is Widget

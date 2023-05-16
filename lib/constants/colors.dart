@@ -8,6 +8,7 @@ class AppColors {
   static const Color white = Colors.white;
   static const Color black = Color(0xff000000);
   static const Color gray = Color(0xff727375);
+  static const transParent = Colors.transparent;
 
   static Color dark = const Color(0xff000000).withOpacity(0.87);
   static Map<int, Color> day = {

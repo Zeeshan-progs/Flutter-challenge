@@ -69,4 +69,11 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2023, 03, 20),
     route: Routes.soundWaveAnimation,
   ),
+
+   DailyTask(
+    description: 'Color opacity animation',
+    title: 'Ep: 13',
+    cretedAt: DateTime(2023, 05, 17),
+    route: Routes.colorOpacityAnimation,
+  ),
 ];
