@@ -63,17 +63,22 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2023, 02, 17),
     route: Routes.wheelScroll,
   ),
-   DailyTask(
+  DailyTask(
     description: 'Sound wave animation',
     title: 'Ep: 12',
     cretedAt: DateTime(2023, 03, 20),
     route: Routes.soundWaveAnimation,
   ),
-
-   DailyTask(
+  DailyTask(
     description: 'Color opacity animation',
     title: 'Ep: 13',
     cretedAt: DateTime(2023, 05, 17),
     route: Routes.colorOpacityAnimation,
+  ),
+  DailyTask(
+    description: 'Appbar animation',
+    title: 'Ep: 14',
+    cretedAt: DateTime(2023, 05, 25),
+    route: Routes.appbarAnimation,
   ),
 ];
