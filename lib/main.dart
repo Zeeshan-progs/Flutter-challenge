@@ -12,7 +12,7 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await runZonedGuarded(
     () async {
-      await setupProjectInjector().then((value) {
+      await setupProjectInjector().then((value) async{
         runApp(ChangeNotifierProvider<ThemeProvider>(
           create: (context) => ThemeProvider(),
           builder: (context, child) => const MyApp(),

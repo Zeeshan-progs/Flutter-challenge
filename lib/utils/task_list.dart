@@ -81,4 +81,10 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2023, 05, 25),
     route: Routes.appbarAnimation,
   ),
+    DailyTask(
+    description: 'Material 3',
+    title: 'Ep: 15',
+    cretedAt: DateTime(2024, 01, 16),
+    route: Routes.material3,
+  ),
 ];
