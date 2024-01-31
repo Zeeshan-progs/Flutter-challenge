@@ -81,10 +81,16 @@ List<DailyTask> tasks = [
     cretedAt: DateTime(2023, 05, 25),
     route: Routes.appbarAnimation,
   ),
-    DailyTask(
+  DailyTask(
     description: 'Material 3',
     title: 'Ep: 15',
     cretedAt: DateTime(2024, 01, 16),
     route: Routes.material3,
+  ),
+  DailyTask(
+    description: 'Custom ripple animation',
+    title: 'Ep: 16',
+    cretedAt: DateTime(2024, 01, 30),
+    route: Routes.rippleAnimation,
   ),
 ];

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_challenge/ui/EP_12_Sound_wave_animation/sound_wave_animation.dart';
 import 'package:flutter_challenge/ui/EP_13_color_opacity_animation/animated_scroll_appbar.dart';
 import 'package:flutter_challenge/ui/EP_13_color_opacity_animation/color_opacity_animation.dart';
+import 'package:flutter_challenge/ui/EP_15_ripple_animation/ripple_aniation.dart';
 import 'package:flutter_challenge/ui/Ep_10_chat_GPT/chat_gpt_sdk.dart';
 import 'package:flutter_challenge/ui/Ep_11_wheel_list_scroll_animation/wheel%20_scroll.dart';
 import 'package:flutter_challenge/ui/Ep_14_material_3_design/material_3_design.dart';
@@ -27,6 +28,7 @@ class Routes {
     colorOpacityAnimation: (context) => const ColorOpacityAnimation(),
     appbarAnimation: (context) => const AppBarAnimation(),
     material3: (context) => const Material3Design(),
+    rippleAnimation:(context)=>  RippleAnimation(),
   };
 
   static String animatedAlign = '/animated_align_screen';
@@ -48,4 +50,6 @@ class Routes {
   static String appbarAnimation = "/app_bar_animation";
 
   static String material3 = "/material_3";
+
+  static String rippleAnimation = "/ripple_animation";
 }
